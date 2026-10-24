@@ -16,3 +16,7 @@ A responsive Currency Converter built with HTML, CSS, and JavaScript that fetche
 - JavaScript (ES6)
 - ExchangeRate API
 - Font Awesome Icons
+
+## Live Demo
+[Click here to view the live website](https://mahahaneya.github.io/Currency-Converter/)
+
